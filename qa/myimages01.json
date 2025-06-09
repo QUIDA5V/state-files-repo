@@ -1,1 +1,5 @@
-[{ "imageTag": "mytag01" }]
+[
+  {
+    "imageTag": "mytag02"
+  }
+]
